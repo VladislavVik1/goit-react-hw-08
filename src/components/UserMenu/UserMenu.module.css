@@ -1,0 +1,23 @@
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .text {
+    margin: 0;
+  }
+  
+  .button {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #c9302c;
+  }
+  
